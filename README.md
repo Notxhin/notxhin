@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-Former web developer and current programmer
+I'm former web developer and current programmer
 -------------------------------------------
 
 I am a developer in three languages, now I am studying python in depth. I started with HTML, but it didn't bring any results. Programmed game mechanics.
@@ -24,4 +24,4 @@ I am a developer in three languages, now I am studying python in depth. I starte
 def preffered_lang(*lang):
     print(lang[0])
 preffered_lang('Python', 'C++', 'JavaScript')
-```      
+``` 
